@@ -1,3 +1,6 @@
 progress
 newLineCode
 newLineOfCode
+login
+moreOnAuth
+modification
