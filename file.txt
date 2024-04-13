@@ -2,3 +2,4 @@ progress
 newLineCode
 newLineOfCode
 login
+moreOnAuth
